@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "source": "Index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Andres Regalado Rosas",
+  "license": "ISC",
+  "build": "parcel build index.html",
+  "dependencies": {
+    "@mathematics/fraction": "^1.0.0-beta.4",
+    "@parcel/transformer-js": "^2.9.3",
+    "core-js": "^3.32.1",
+    "fractional": "^1.0.0",
+    "parcel": "^2.9.3",
+    "v2": "^0.0.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3"
+  }
+}
