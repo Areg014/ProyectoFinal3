@@ -9,13 +9,13 @@
   "author": "Andres Regalado Rosas",
   "license": "ISC",
   "build": "parcel build index.html",
-  "cosmiconfig": "=8.2.0",
   "dependencies": {
     "@mathematics/fraction": "^1.0.0-beta.4",
     "@parcel/optimizer-cssnano": "^2.9.3",
     "@parcel/optimizer-htmlnano": "^2.9.3",
     "@parcel/transformer-js": "^2.9.3",
     "core-js": "^3.32.1",
+    "cosmiconfig": "^8.2.0",
     "fractional": "^1.0.0",
     "parcel": "^2.9.3",
     "v2": "^0.0.3"
